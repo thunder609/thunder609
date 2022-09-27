@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ##Languages uses:
- ![thunder609's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thunder609name&theme=blue-green)
+ ![thunder609's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thunder609&theme=blue-green)
 ## Tecnologías:
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
