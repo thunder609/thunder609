@@ -12,6 +12,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -46,3 +47,8 @@ Here are some ideas to get you started:
 [![thunder609's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder609)](https://github.com/thunder609/github-readme-stats)
  ##   Here is a random joke that'll make you laugh!
  ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ ##Private Repository
+![thunder609's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder609&count_private=true)
+##Top
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunder609&layout=compact)](https://github.com/thunder609/github-readme-stats)
