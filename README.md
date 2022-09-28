@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Languages uses:
-![thunder609's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thunder609&theme=blue-green)
+
 ## Tecnologías:
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=yellow&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
@@ -52,3 +51,7 @@ Here are some ideas to get you started:
 ![thunder609's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder609&count_private=true)
 ##Top
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunder609&layout=compact)](https://github.com/thunder609/github-readme-stats)
+
+##wakakatime
+[![thunder609's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/thunder609/github-readme-stats)
+
