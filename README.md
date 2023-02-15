@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 
 ## Tecnologías:
-#Languge
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=green&labelColor=ffffff)]()
