@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Postgresql](https://img.shields.io/badge/Psotgresql-blue?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=ffffff)]()
-[![Postgresql](https://img.shields.io/badge/Azure?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=ffffff)]()
+
 </br>
 ## ESTADISTICAS
 [![thunder609's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder609)](https://github.com/thunder609/github-readme-stats)
