@@ -34,10 +34,13 @@ Here are some ideas to get you started:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=green&labelColor=ffffff)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-blueviolent?style=for-the-badge&logo=kotlin&logoColor=red&labelColor=ffffff)]()
 
+
+</br>
+# Os
+
+[![Unix](https://img.shields.io/badge/unix-232F3E?style=for-the-badge&logo=unix&logoColor=yellow&labelColor=101010)]()
 [![Debian](https://img.shields.io/badge/Debian-0095D5?style=for-the-badge&logo=debian&logoColor=red&labelColor=ffffff)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
-
 # Cloud
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=yellow&labelColor=101010)]()
 [![AZURE](https://img.shields.io/badge/Azure_Cloud-232F3E?style=for-the-badge&logo=microsoft-azure&logoColor=yellow&labelColor=101010)]()
