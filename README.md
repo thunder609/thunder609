@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 </br>
 
-# Database
+# Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Postgresql](https://img.shields.io/badge/Psotgresql-blue?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=ffffff)]()
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ##Top
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunder609&layout=compact)](https://github.com/thunder609/github-readme-stats)
 
-##wakakatime
+
 ![image::](https://wakatime.com/share/@thunder609/5a613f33-cf78-455b-89d7-e5a46f14e9e0.png)
   
   
