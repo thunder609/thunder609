@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![thunder609's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder609)](https://github.com/thunder609/github-readme-stats)
+ ##   Here is a random joke that'll make you laugh!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## Tecnologías:
 
 #### Language
