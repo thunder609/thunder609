@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 [![Cisco](https://img.shields.io/badge/cisco-blue?style=for-the-badge&logo=cisco&logoColor=blue&labelColor=ffffff)]()
 [![huawei](https://img.shields.io/badge/huawei-blue?style=for-the-badge&logo=huawei&logoColor=red&labelColor=ffffff)]()
 
-## Avwrage
+## Average
 
- ##Private Repository
+ ## Private Repository
 ![thunder609's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder609&count_private=true)
-##Top
+## Top
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunder609&layout=compact)](https://github.com/thunder609/github-readme-stats)
 
 
