@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![thunder609's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder609)](https://github.com/thunder609/github-readme-stats)
  ##   Here is a random joke that'll make you laugh!
  ![Jokes Card](https://readme-jokes.vercel.app/api)
-## Tecnologías:
+## Tecnologies:
 
 #### Language
 [![java](https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=powershell&logoColor=red&labelColor=101010)]()
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 [![Cisco](https://img.shields.io/badge/cisco-blue?style=for-the-badge&logo=cisco&logoColor=blue&labelColor=ffffff)]()
 [![huawei](https://img.shields.io/badge/huawei-blue?style=for-the-badge&logo=huawei&logoColor=red&labelColor=ffffff)]()
 
-## ESTADISTICAS
+## Avwrage
 
  ##Private Repository
 ![thunder609's GitHub stats](https://github-readme-stats.vercel.app/api?username=thunder609&count_private=true)
