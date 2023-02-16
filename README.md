@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 </br>
-# Os
+## Os
 
 [![Unix](https://img.shields.io/badge/unix-232F3E?style=for-the-badge&logo=unix&logoColor=yellow&labelColor=101010)]()
 [![Debian](https://img.shields.io/badge/Debian-0095D5?style=for-the-badge&logo=debian&logoColor=red&labelColor=ffffff)]()
